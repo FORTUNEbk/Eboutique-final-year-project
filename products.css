@@ -1,0 +1,27 @@
+.sideview {
+    position: fixed;
+    width: 290px;
+    height: 100%;
+    display:block;
+}
+
+nav ul li  {
+    list-style: none;
+    text-decoration: none;
+    line-height: 30px;
+    display: inline-block;
+    color: white; 
+    
+}
+
+.img{
+    margin-top: 10px;
+}
+
+.cloth1{
+    background-color: transparent;
+    margin-top: 20px;
+}
+.box1-hover{
+    background-color: lightblue;
+}
